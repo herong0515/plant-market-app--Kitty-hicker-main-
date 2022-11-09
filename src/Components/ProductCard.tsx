@@ -24,7 +24,7 @@ const ProductCard = ({ data }: any) => {
       <ColumnWarpper>
         <p>{data.title}</p>
         <p className="sub">{data.createdAt}</p>
-        <Price className="bold h4">{data.price}\</Price>
+        <Price className="bold h4">{data.price.toLocaleString()}원</Price>
       </ColumnWarpper>
     </ProductWrapper>
   );

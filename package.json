@@ -58,5 +58,7 @@
   "license": "MIT",
   "msw": {
     "workerDirectory": "public"
-  }
+  },
+  "repository": "https://github.com/herong0515/plant-market-app--Kitty-hicker-main-.git",
+  "author": "herong0515 <102296873+herong0515@users.noreply.github.com>"
 }
